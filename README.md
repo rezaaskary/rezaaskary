@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![1_1 (2)](https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif)
+![1_1 (2)](https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif=250x250)
 
 
 ![BiLSTM_NN](https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png)
