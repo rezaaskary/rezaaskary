@@ -7,6 +7,16 @@
 ![BiLSTM_NN](https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png)
 
 
+
+![Fig_1_2](https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png)
+
+
+![Fig_2_10_2](https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png)
+
+
+
+
+
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
