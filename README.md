@@ -9,7 +9,7 @@
 ![BiLSTM_NN](https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png)
 
 
-
+<img src="https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png" width="600" height="400" />
 ![Fig_1_2](https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png)
 
 
