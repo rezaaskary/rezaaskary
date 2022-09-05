@@ -1,8 +1,6 @@
 ### Hi there, I'm Reza! 👋
 
 
-![1_1 (2)](https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif)
-
 <img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="600" height="400" />
 
 
@@ -10,8 +8,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png" width="600" height="400" />
-
-#![Fig_1_2](https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png)
 
 
 ![Fig_2_10_2](https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png)
