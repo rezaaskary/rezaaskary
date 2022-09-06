@@ -7,15 +7,14 @@
 </p>
 
 
-
-<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="600" height="400" />
-
-
-![BiLSTM_NN](https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png)
+<p align ="left">
+<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300" height="200" />
+</p>
 
 
-<img src="https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png" width="600" height="400" />
 
+
+<p align ="middle"> <img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" width="400" height="100" /> </p> <p align ="right"> <img src="https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png" width="300" height="200" /> </p>
 
 ![Fig_2_10_2](https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png)
 
