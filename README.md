@@ -50,70 +50,66 @@ I'm a **Persian developer**
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Swift</center></b></span> 
 <img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>MATLAB</center></b></span> 
 <img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Bash</center></b></span> 
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>C++</center></b></span> 
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
 
 
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>Flutter</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
@@ -133,7 +129,28 @@ ____
 </p>
 
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-    
+
+</a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="100"/>
+
+
+  ----------------------------------------------------
+  <p align="center">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  
+  
+  
+  
+  
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
