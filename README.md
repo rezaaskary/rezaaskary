@@ -1,6 +1,13 @@
 ### Hi there, I'm Reza! 👋
 
 
+
+<p align ="left">
+<img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+</p>
+
+
+
 <img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="600" height="400" />
 
 
