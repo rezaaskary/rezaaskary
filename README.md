@@ -16,6 +16,12 @@
 <img src="https://user-images.githubusercontent.com/44175575/188338014-1367e7b7-1d9f-41d2-bcf2-3cab7531e8a6.png" width="333"/> <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="333"/> <img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="333"/> 
 
 
+  
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
+  
+  
+  
+  
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
