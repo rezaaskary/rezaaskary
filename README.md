@@ -8,12 +8,24 @@ I'm a **Persian developer**
 |<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
 |:-:|:-:|:-:|
 Biomedical Signal Processing |Deep Learning|Wristband Biosignals|
-
-|<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/> |
-|:-:|:-:|:-:|
-Systems & Control Engineering|Time-series analysis|Machine Learning & Data-driven Modeling|
+|<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
+Systems and Control Engineering|Time-series analysis|Machine Learning & Data-driven Modeling|
 
  <!--  the end of 6 figures  -->
+-----
+ <!--  R-scikitlearn-pycharm  -->
+
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br /> <code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
+</a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
+
+--------
+
 
 
   
@@ -45,7 +57,7 @@ Systems & Control Engineering|Time-series analysis|Machine Learning & Data-drive
   <p>  
  
  
- <br>
+<br>
 <table>
 <tbody>
  <tr>
@@ -119,17 +131,7 @@ Systems & Control Engineering|Time-series analysis|Machine Learning & Data-drive
 
 ____
 
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
 
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-
-</a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="100"/>
 
 
   ----------------------------------------------------
