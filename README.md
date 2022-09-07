@@ -13,9 +13,25 @@ I'm a **Persian developer**
 
  <!--  the end of 6 figures  -->
 -----
+<p> 
+<img src="https://img.icons8.com/nolan/2x/matlab.png" width="50">
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188786148-f086ed82-1c8a-43c5-b378-160eff5f15ed.png" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188786451-c46a7918-61c7-46ca-b3ac-deb443264b0b.png"   width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188786627-b716111f-60a2-4e47-bb22-742314c6ba4c.png" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188787086-7e36c22a-b989-4288-8bc5-55ef4073a099.jpeg" width="85">
+<img src="https://user-images.githubusercontent.com/44175575/188787648-32148df3-4557-4624-a902-b4cbe6d880e9.png" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188788483-d4b70066-183d-4d7e-aa4d-746c30a78401.png" width="50">
+<img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+<p>  
+
+
+![207-2078290_free-png-icon-mysql-database (1)]()
+
+----------
  <!--  R-scikitlearn-pycharm  -->
 
-"https://img.icons8.com/nolan/2x/matlab.png"
+
 
 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
