@@ -45,9 +45,11 @@ I'm a **Persian developer**
   <img src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png" width="50">
   <img src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png" width="67">
   <img src="https://user-images.githubusercontent.com/44175575/188792032-c7e223f7-f953-4d81-977b-88487c19942d.png" width="35">
+  <img src="https://user-images.githubusercontent.com/44175575/188793044-e88ff134-cf82-419f-982b-6cd62ef72c4a.png" width="35">
 
  <p>
 
+![azure]()
 
 ----------
 
