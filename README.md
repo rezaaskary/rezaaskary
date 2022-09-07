@@ -31,14 +31,6 @@ I'm a **Persian developer**
 <p>  
 
 
-
-
- 
-
- 
- 
-
- 
  -----------------
   <!--  to be learned -->
  <p>
@@ -265,6 +257,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png"></code>
   
  
 
