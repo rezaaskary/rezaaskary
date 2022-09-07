@@ -26,10 +26,11 @@ Systems and Control Engineering|Time-series analysis|Machine Learning & Data-dri
 
 --------
 
+ 
+----------------
 
 
-  
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
+
   
   
 ### My Tech Stack
@@ -102,7 +103,6 @@ Systems and Control Engineering|Time-series analysis|Machine Learning & Data-dri
 </td>
 
 
-
 <td align="center" width="10%">
 <span><b><center>Flutter</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
@@ -150,11 +150,14 @@ ____
   
   
   
-  
+----  
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
-
+----
+<!-- view and follower -->
+    
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
   
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
