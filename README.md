@@ -22,11 +22,32 @@ I'm a **Persian developer**
 <img src="https://user-images.githubusercontent.com/44175575/188787086-7e36c22a-b989-4288-8bc5-55ef4073a099.jpeg" width="85">
 <img src="https://user-images.githubusercontent.com/44175575/188787648-32148df3-4557-4624-a902-b4cbe6d880e9.png" width="50">
 <img src="https://user-images.githubusercontent.com/44175575/188788483-d4b70066-183d-4d7e-aa4d-746c30a78401.png" width="50">
-<img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+<img src="https://user-images.githubusercontent.com/44175575/188788859-cd7c3780-b267-411a-bb99-dc201ab13859.png" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188789075-913b3b1d-9a4e-433a-8ff3-f18b5b617aa5.jpeg" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188789288-9217ad05-cc78-4428-87d5-6614af09d6d3.png" width="50">
+<img src="https://user-images.githubusercontent.com/44175575/188789474-8062876e-d244-4eab-90fd-8bcc69ddbda8.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85">
+<img src="" width="50">
 <p>  
 
 
-![207-2078290_free-png-icon-mysql-database (1)]()
+
+
+ 
+
+ 
+ 
+
+ 
+ -----------------
+  <!--  to be learned -->
+ <p>
+  <img src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png" width="50">
+  <img src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png" width="67">
+  <img src="https://user-images.githubusercontent.com/44175575/188792032-c7e223f7-f953-4d81-977b-88487c19942d.png" width="35">
+
+ <p>
+
 
 ----------
  <!--  R-scikitlearn-pycharm  -->
