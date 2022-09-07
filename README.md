@@ -3,6 +3,15 @@
 I'm a **Persian developer** 
 
 
+|<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="200"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" width="200"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" width="200"/>|
+|:-:|:-:|:-:|
+Biomedical Signal Processing |Deep Learning|Wristband Biosignals|
+
+
+
+
+
+
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
