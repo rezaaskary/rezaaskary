@@ -159,7 +159,7 @@ ____
 
 
   ----------------------------------------------------
-  <p align="center">
+ <p align="center">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
