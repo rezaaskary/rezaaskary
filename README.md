@@ -51,12 +51,7 @@ _______
 
 
 ------
-<p align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
-</p>
 
- 
- 
  
 <h3> Let me know if youa're interested in any of the above topics:<h3>
 <p align="left">
@@ -71,7 +66,8 @@ _______
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
  
 
- 
+<a align ="right">
+<img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")</a>
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
