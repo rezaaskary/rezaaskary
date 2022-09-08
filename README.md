@@ -74,8 +74,8 @@ I'm a **Persian developer**
 
 <p align="left">
 <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189038324-f22124b1-3836-4bdc-8153-95c67f35815b.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100061144194537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189038849-582b4a0e-23ef-411b-9839-ba1f6b864766.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
  
 <!--
