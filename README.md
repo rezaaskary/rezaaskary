@@ -1,4 +1,4 @@
-### Hi there, I'm Reza! 👋
+<h3> Hi there, I'm Reza! 👋 <h3>
 
 I'm a **Persian developer** 
 
@@ -71,7 +71,8 @@ I'm a **Persian developer**
 </p>
 ------
  
-**Connect with me:**
+<h3>Connect with me:<h3>
+ 
 <p align="left">
 <a href="https://twitter.com/Mohamma48525561" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100061144194537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
