@@ -27,17 +27,17 @@ I'm a **Persian developer**
 <code><a href="https://studio.azureml.net/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/189033100-b1264abe-c3c9-47ec-aec6-2ec009ad03fe.png"></a></code>
 
 <!-- end of my tools-->
---------------
+_________
  <h3>🌱 Looking forward to learn: <h3>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
- 
+_______
 <!--  this is 6 figures, showing my interests -->
  
- ####  💻 My favorite Topics:
+ <h3>  💻 My favorite Topics:<h3>
 |<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
 |:-:|:-:|:-:|
 **Biomedical Signal Processing** |**Deep Learning**|**Wristband Biosignals**|
