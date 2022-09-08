@@ -122,34 +122,14 @@ I'm a **Persian developer**
 <!-- end of my tools-->
  
  -----------------
+
+**🌱 Looking forward to learn:**
+
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
  
- <br>
-<table style="width:10%">
-<tbody>
- <tr>
-<td align="center" width="3%">
-<span><b><center>Julia</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"> 
-</td>
-
-<td align="center" width="3%">
-<span><b><center>Spark</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"> 
-</td>
-  
-<td align="center" width="3%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=60px src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"> 
-</td>
-
-<td align="center" width="3%">
-<span><b><center>Azure SDK</center></b></span> 
-<img height=65px src="https://user-images.githubusercontent.com/44175575/188793044-e88ff134-cf82-419f-982b-6cd62ef72c4a.png"> 
-</td>
-</tr>
-</tbody>
-</table>
-
 
 ------
 
