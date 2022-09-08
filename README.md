@@ -63,9 +63,8 @@ _______
 </p>
  
 <!-- view and follower -->
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary"/>
  
-
 <a align ="right">
 <img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")</a>
 <!--
