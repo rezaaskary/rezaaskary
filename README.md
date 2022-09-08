@@ -8,7 +8,7 @@ I'm a **Persian developer**
   
 
  <!--  Tools  -->  
-  
+### 🔧 Languages and Tools:  
 <br>
 <table>
 <tbody>
@@ -108,6 +108,12 @@ I'm a **Persian developer**
 <img height=65px src="https://user-images.githubusercontent.com/44175575/189020452-db9e0d88-d756-439a-aaa9-339b4d46ce53.png"> 
 </td>
  
+ <td align="center" width="10%">
+<span><b><center>Azure ML Studio</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188793044-e88ff134-cf82-419f-982b-6cd62ef72c4a.png"> 
+</td>
+
+ 
 </tr>
 </tbody>
 </table>
@@ -115,20 +121,39 @@ I'm a **Persian developer**
 
 <!-- end of my tools-->
  
-
  -----------------
-  <!--  to be learned -->
- <p>
-  <img src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png" width="50">
-  <img src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png" width="67">
-  <img src="https://user-images.githubusercontent.com/44175575/188792032-c7e223f7-f953-4d81-977b-88487c19942d.png" width="35">
-  <img src="https://user-images.githubusercontent.com/44175575/188793044-e88ff134-cf82-419f-982b-6cd62ef72c4a.png" width="35">
+ 
+ <br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="10%">
+<span><b><center>Julia</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"> 
+</td>
 
- <p>
+<td align="center" width="10%">
+<span><b><center>Spark</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"> 
+</td>
+  
+<td align="center" width="10%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src=""> 
+</td>
 
-![azure]()
 
-----------
+<td align="center" width="10%">
+<span><b><center>Azure SDK</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188793044-e88ff134-cf82-419f-982b-6cd62ef72c4a.png"> 
+</td>
+
+
+ 
+</tr>
+</tbody>
+</table>
+
 
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/)
@@ -246,40 +271,6 @@ ____
 
 <hr>
 ---------
-
-### Languages and Tools:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-    
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png"></code>
-  
- 
-
-</p>
 
 <!--  this is 6 figures, showing my interests -->
  
