@@ -3,34 +3,118 @@
 I'm a **Persian developer** 
 
 
- <!--  this is 6 figures, showing my interests -->
  
- ####  💻 My favorite Topics:
-|<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
-|:-:|:-:|:-:|
-*Biomedical Signal Processing* |*Deep Learning*|*Wristband Biosignals*|
-|<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
-*Systems and Control Engineering*|*Time-series analysis*|*Machine Learning & Data-driven Modeling*|
+ ----------------------------------------------------
+  
 
- <!--  the end of 6 figures  -->
------
-<p> 
-<img src="https://img.icons8.com/nolan/2x/matlab.png" width="50">
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188786148-f086ed82-1c8a-43c5-b378-160eff5f15ed.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188786451-c46a7918-61c7-46ca-b3ac-deb443264b0b.png"   width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188786627-b716111f-60a2-4e47-bb22-742314c6ba4c.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188787086-7e36c22a-b989-4288-8bc5-55ef4073a099.jpeg" width="85">
-<img src="https://user-images.githubusercontent.com/44175575/188787648-32148df3-4557-4624-a902-b4cbe6d880e9.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188788483-d4b70066-183d-4d7e-aa4d-746c30a78401.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188788859-cd7c3780-b267-411a-bb99-dc201ab13859.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188789075-913b3b1d-9a4e-433a-8ff3-f18b5b617aa5.jpeg" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188789288-9217ad05-cc78-4428-87d5-6614af09d6d3.png" width="50">
-<img src="https://user-images.githubusercontent.com/44175575/188789474-8062876e-d244-4eab-90fd-8bcc69ddbda8.png" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85">
-<img src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png" width="50">
-<p>  
+ <!--  Tools  -->  
+  
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="10%">
+<span><b><center>Python</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/188786451-c46a7918-61c7-46ca-b3ac-deb443264b0b.png"> 
+</td>
 
+<td align="center" width="10%">
+<span><b><center>Tensorflow</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/188788859-cd7c3780-b267-411a-bb99-dc201ab13859.png"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>Scipy</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/188789075-913b3b1d-9a4e-433a-8ff3-f18b5b617aa5.jpeg"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>Github</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center> &nbsp; R   </center></b></span> 
+<img height=65px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>Domino</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188786148-f086ed82-1c8a-43c5-b378-160eff5f15ed.png"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>VSCode</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188786627-b716111f-60a2-4e47-bb22-742314c6ba4c.png"> 
+</td>
+
+
+<td align="center" width="10%">
+<span><b><center>Pymc</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188789288-9217ad05-cc78-4428-87d5-6614af09d6d3.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="10%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>Scikitlearn</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
+</td>
+
+<td align="center" width="10%">
+<span><b><center>Keras</center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/189015798-9b1006d6-3b42-4b67-91eb-633989bbd02c.png"> 
+</td>
+ 
+ 
+ 
+ <td align="center" width="10%">
+<span><b><center> Git </center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/189019524-da3f55d6-1f4c-4fae-a692-c9c3b9030a8c.png"> 
+</td>
+ 
+  <td align="center" width="10%">
+<span><b><center> Gitlab  </center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/189018357-cf7f690e-1c32-46cb-a2b2-aa093a174679.jpg"> 
+</td>
+ 
+ 
+<td align="center" width="10%">
+<span><b><center> MySQL  </center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188788483-d4b70066-183d-4d7e-aa4d-746c30a78401.png"> 
+</td>
+ 
+ 
+<td align="center" width="10%">
+<span><b><center> Pycharm </center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png"> 
+</td>
+
+
+ 
+ 
+ <td align="center" width="10%">
+<span><b><center> Jupiter </center></b></span> 
+<img height=65px src="https://user-images.githubusercontent.com/44175575/189020452-db9e0d88-d756-439a-aaa9-339b4d46ce53.png"> 
+</td>
+ 
+</tr>
+</tbody>
+</table>
+
+
+<!-- end of my tools-->
+ 
 
  -----------------
   <!--  to be learned -->
@@ -74,77 +158,7 @@ I'm a **Persian developer**
 
 
  
- 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="10%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
 
-<td align="center" width="10%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
-
-
-<td align="center" width="10%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="10%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
 
 ____
 
@@ -266,6 +280,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  
 
 </p>
+
+<!--  this is 6 figures, showing my interests -->
+ 
+ ####  💻 My favorite Topics:
+|<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
+|:-:|:-:|:-:|
+*Biomedical Signal Processing* |*Deep Learning*|*Wristband Biosignals*|
+|<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
+*Systems and Control Engineering*|*Time-series analysis*|*Machine Learning & Data-driven Modeling*|
+
+ <!--  the end of 6 figures  -->
+
 
 
 
