@@ -43,40 +43,13 @@ I'm a **Persian developer**
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:reza.askary99@gmail.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/rezaaskary/)](https://github.com/rezaaskary/)
 -----
- 
-----
 <!-- view and follower -->
     
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
 
 -------------
  
- <h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
----------
+ 
 
 <!--  this is 6 figures, showing my interests -->
  
@@ -98,15 +71,12 @@ I'm a **Persian developer**
 </p>
 ------
 **Connect with me:**
+
 <p align="left">
-<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189038324-f22124b1-3836-4bdc-8153-95c67f35815b.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
- 
  
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
