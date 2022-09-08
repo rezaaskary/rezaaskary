@@ -69,9 +69,9 @@ I'm a **Persian developer**
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
-------
+
  
-<h3>Connect with me:<h3>
+<h3> Let me know if youa're interested in any of the above topics:<h3>
  
 <p align="left">
 <a href="https://twitter.com/Mohamma48525561" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
