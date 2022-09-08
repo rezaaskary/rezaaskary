@@ -5,7 +5,8 @@ I'm a **Persian developer**
 
  
  ----------------------------------------------------
- #### 🔧 Tools & Languages:
+ <h3>🛠 Tools & Languages:</h3>
+
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188786451-c46a7918-61c7-46ca-b3ac-deb443264b0b.png"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188788859-cd7c3780-b267-411a-bb99-dc201ab13859.png"></a></code>
 <code><a href="https://scipy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789075-913b3b1d-9a4e-433a-8ff3-f18b5b617aa5.jpeg"></a></code>
@@ -27,7 +28,7 @@ I'm a **Persian developer**
 
 <!-- end of my tools-->
 --------------
-**🌱 Looking forward to learn:**
+ <h3>🌱 Looking forward to learn: <h3>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
