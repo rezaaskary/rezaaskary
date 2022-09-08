@@ -139,9 +139,14 @@ I'm a **Persian developer**
   
 <td align="center" width="10%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=60px src=""> 
+<img height=60px src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"> 
 </td>
 
+
+
+  
+  
+  
 
 <td align="center" width="10%">
 <span><b><center>Azure SDK</center></b></span> 
