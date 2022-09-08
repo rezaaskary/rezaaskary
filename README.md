@@ -47,11 +47,7 @@ _______
 
  <!--  the end of 6 figures  -->
 
-
-
-
 ------
-
  
 <h3> Let me know if youa're interested in any of the above topics:<h3>
 <p align="left">
@@ -61,12 +57,12 @@ _______
 <a href="https://www.researchgate.net/profile/Mohammad-Reza-Askari" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189039752-dfe60c71-8e3d-4585-aee6-4a63b327848f.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189040317-726a38f1-8af0-46ef-9b9e-07dc8fe41bb6.jpg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+<p align ="right">
+<img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")</p>
  
 <!-- view and follower -->
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary"/>
  
-<a align ="right">
-<img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")</a>
 <!--
 **rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
