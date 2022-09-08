@@ -35,22 +35,6 @@ I'm a **Persian developer**
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
  
-
-------
-
-
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:reza.askary99@gmail.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/rezaaskary/)](https://github.com/rezaaskary/)
------
-<!-- view and follower -->
-    
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
-
--------------
- 
- 
-
 <!--  this is 6 figures, showing my interests -->
  
  ####  💻 My favorite Topics:
@@ -71,8 +55,9 @@ I'm a **Persian developer**
 </p>
 
  
-<h3> Let me know if youa're interested in any of the above topics:<h3>
  
+ 
+<h3> Let me know if youa're interested in any of the above topics:<h3>
 <p align="left">
 <a href="https://twitter.com/Mohamma48525561" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100061144194537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -81,7 +66,8 @@ I'm a **Persian developer**
 <a href="https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189040317-726a38f1-8af0-46ef-9b9e-07dc8fe41bb6.jpg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
  
-
+<!-- view and follower -->
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary" />
  
 
  
