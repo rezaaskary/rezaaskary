@@ -83,9 +83,9 @@ I'm a **Persian developer**
  ####  💻 My favorite Topics:
 |<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
 |:-:|:-:|:-:|
-*Biomedical Signal Processing* |*Deep Learning*|*Wristband Biosignals*|
+**Biomedical Signal Processing** |**Deep Learning**|**Wristband Biosignals**|
 |<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
-*Systems and Control Engineering*|*Time-series analysis*|*Machine Learning & Data-driven Modeling*|
+**Systems and Control Engineering**|**Time-series analysis**|**Machine Learning & Data Science**|
 
  <!--  the end of 6 figures  -->
 
