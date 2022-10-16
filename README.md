@@ -24,7 +24,7 @@ I'm a **Persian developer**
 <code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/189020452-db9e0d88-d756-439a-aaa9-339b4d46ce53.png"></a></code>
 <code><a href="https://studio.azureml.net/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/189033100-b1264abe-c3c9-47ec-aec6-2ec009ad03fe.png"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png"></a></code>
 <!-- end of my tools-->
 
  <h3>🌱 Looking forward to learn: <h3>
