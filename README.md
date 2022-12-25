@@ -26,6 +26,9 @@ I'm a **Persian developer**
 <code><a href="https://studio.azureml.net/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/189033100-b1264abe-c3c9-47ec-aec6-2ec009ad03fe.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png"></a></code>
 
+ ![1200px-PyTorch_logo_icon svg](https://user-images.githubusercontent.com/44175575/209475260-3ae539cd-e77b-47ac-80f4-3084fc367fce.png)
+
+ 
  
  
  
