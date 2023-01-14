@@ -50,7 +50,7 @@ _______
 |:-:|:-:|:-:|
 **Biomedical Signal Processing** |**Deep Learning**|**Wristband Biosignals**|
 |<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
-**Systems and Control Engineering**|**Time-series analysis**|**Machine Learning & Data Science**|
+**Systems and Control Engineering**|**Time-series Analysis & Human Digital Twin**|**Machine Learning & Data Science**|
 
  <!--  the end of 6 figures  -->
 
