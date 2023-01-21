@@ -26,7 +26,7 @@ I'm a **Persian developer**
 <code><a href="https://studio.azureml.net/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/189033100-b1264abe-c3c9-47ec-aec6-2ec009ad03fe.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/209475260-3ae539cd-e77b-47ac-80f4-3084fc367fce.png"></a></code>
-
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a></code>
  
  
  
@@ -36,7 +36,7 @@ I'm a **Persian developer**
 
  <h3>🌱 Looking forward to learn: <h3>
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a></code>
+
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
