@@ -28,7 +28,6 @@ I'm a **Persian developer**
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/209475260-3ae539cd-e77b-47ac-80f4-3084fc367fce.png"></a></code>
 
  
-
  
  
  
