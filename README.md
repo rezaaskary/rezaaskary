@@ -34,7 +34,7 @@ I'm a **Persian developer**
  
 <!-- end of my tools-->
 
- <h3>🌱 Looking forward to learn: <h3>
+ <h3>🌱 Looking forward to learning: <h3>
 
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
