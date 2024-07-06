@@ -28,7 +28,8 @@ I'm a **Persian developer**
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/209475260-3ae539cd-e77b-47ac-80f4-3084fc367fce.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png"></a></code>
- <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/214942662-17a8fbc6-deb7-4bb7-ad3c-1eb7847e0f13.png"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/214942662-17a8fbc6-deb7-4bb7-ad3c-1eb7847e0f13.png"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://github.com/rezaaskary/rezaaskary/assets/44175575/7a770ec5-d27f-4087-b033-997d52a035bf"></a></code>
 
 
 
