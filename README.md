@@ -33,13 +33,6 @@ I'm a **Persian developer**
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://github.com/user-attachments/assets/6ae5ceb2-07a9-48e4-bd16-ec94976f9650"></a></code>
 
 
-
-
-![pytorch-icon-1694x2048-jgwjy3ne](https://github.com/user-attachments/assets/6ae5ceb2-07a9-48e4-bd16-ec94976f9650)
-
-
-
-
 <!-- end of my tools-->
 
  <h3>🌱 Looking forward to learning: <h3>
