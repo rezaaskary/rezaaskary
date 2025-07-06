@@ -1,131 +1,117 @@
-<h3> Hi there, I'm Reza! 👋 <h3>
+# 👋 Welcome to My Digital Universe
 
- 
-I'm a **Persian developer** 
+## I'm Mohammad Reza Askari
+### 🇮🇷 Persian Developer | 🧬 Biomedical Signal Processing Specialist | 🤖 AI/ML Engineer
 
+---
 
- -----------------------------------------------------
- <h3>🛠 Tools & Languages:</h3>
+> *"Transforming biological signals into digital insights, one algorithm at a time."*
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188786451-c46a7918-61c7-46ca-b3ac-deb443264b0b.png" alt="Python Logo" style="height:60px; width:auto;">
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188788859-cd7c3780-b267-411a-bb99-dc201ab13859.png" style="height:60px; width:auto;">
-</a>
-<a href="https://scipy.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188789075-913b3b1d-9a4e-433a-8ff3-f18b5b617aa5.jpeg" style="height:60px; width:auto;">
-</a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://img.icons8.com/nolan/2x/matlab.png" style="height:60px; width:auto;">
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/2x/github-2.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" style="height:60px; width:auto;">
-</a>
-<a href="https://go.dominodatalab.com/domino-enterprise-mlops-platform-demo" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188786148-f086ed82-1c8a-43c5-b378-160eff5f15ed.png" style="height:60px; width:auto;">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188786627-b716111f-60a2-4e47-bb22-742314c6ba4c.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.pymc.io/welcome.html" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188789288-9217ad05-cc78-4428-87d5-6614af09d6d3.png" style="height:60px; width:auto;">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/2x/sql.png" style="height:60px; width:auto;">
-</a>
-<a href="https://scikit-learn.org/stable/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="height:60px; width:auto;">
-</a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/189015798-9b1006d6-3b42-4b67-91eb-633989bbd02c.png" style="height:60px; width:auto;">
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/189019524-da3f55d6-1f4c-4fae-a692-c9c3b9030a8c.png" style="height:60px; width:auto;">
-</a>
-<a href="https://about.gitlab.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/189035189-9c2d7491-d31f-4563-a586-8cca5df9b030.jpg" style="height:60px; width:auto;">
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188788483-d4b70066-183d-4d7e-aa4d-746c30a78401.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188792448-938f2d7d-ad4b-4081-988f-4034b8c3860c.png" style="height:60px; width:auto;">
-</a>
-<a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/189020452-db9e0d88-d756-439a-aaa9-339b4d46ce53.png" style="height:60px; width:auto;">
-</a>
-<a href="https://studio.azureml.net/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/189033100-b1264abe-c3c9-47ec-aec6-2ec009ad03fe.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/196049995-7fdfc4b7-2f41-42f7-8eac-ac7e507044cb.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/209475260-3ae539cd-e77b-47ac-80f4-3084fc367fce.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/188789758-65e873c2-13ef-4f93-8d14-682d83eaec93.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/44175575/214942662-17a8fbc6-deb7-4bb7-ad3c-1eb7847e0f13.png" style="height:60px; width:auto;">
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://github.com/rezaaskary/rezaaskary/assets/44175575/7a770ec5-d27f-4087-b033-997d52a035bf" style="height:60px; width:auto;">
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/6ae5ceb2-07a9-48e4-bd16-ec94976f9650" style="height:60px; width:auto;">
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/f972f3a0-1be1-4346-b91e-79cc92fb10ac" style="height:60px; width:auto;">
-</a>
+I'm passionate about bridging the gap between human physiology and artificial intelligence, specializing in biomedical signal processing, wearable technology, and machine learning applications in healthcare.
 
-<!-- end of my tools-->
+## 🚀 What I Do
 
-_______
-<!--  this is 6 figures, showing my interests -->
- 
- <h3>  💻 My favorite Topics:<h3>
-  
-|<img src="https://user-images.githubusercontent.com/44175575/188337231-186122cd-f92c-4c45-929b-2e11fb97c022.gif" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" height="100" width="300"/>|<img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" height="150" width="300"/>|
-|:-:|:-:|:-:|
-**Biomedical Signal Processing** |**Deep Learning**|**Wristband Biosignals**|
-|<img src="https://user-images.githubusercontent.com/44175575/188770557-3e18f0cc-ca96-4bf6-9e20-e883f8cd65bc.png" width="300"/>| <img src="https://user-images.githubusercontent.com/44175575/188338160-e6c408c3-458d-48a6-b106-40e6100cfe82.png" width="300"/> |<img src="https://user-images.githubusercontent.com/44175575/188338439-9460c106-fed6-4e11-bfca-53644e469d99.png" width="300"/>|
-**Systems and Control Engineering**|**Time-series Analysis & Human Digital Twin**|**Machine Learning & Data Science**|
+🔬 **Biomedical Signal Processing** - Extracting meaningful patterns from physiological data  
+🤖 **Deep Learning & AI** - Building intelligent systems for healthcare applications  
+⌚ **Wearable Technology** - Developing algorithms for biosignal analysis from wristband devices  
+📊 **Data Science** - Transforming complex datasets into actionable insights  
+🎛️ **Systems & Control Engineering** - Designing robust control systems and digital twins  
+📈 **Time-Series Analysis** - Specialized in temporal pattern recognition and forecasting  
 
- <!--  the end of 6 figures  -->
+## 🛠️ Technical Arsenal
 
-------
- 
-<h3> Let me know if youa're interested in any of the above topics:<h3>
-<p align="left">
-<a href="https://twitter.com/Mohamma48525561" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100061144194537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189038849-582b4a0e-23ef-411b-9839-ba1f6b864766.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Mohammad-Reza-Askari" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189039752-dfe60c71-8e3d-4585-aee6-4a63b327848f.png" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44175575/189040317-726a38f1-8af0-46ef-9b9e-07dc8fe41bb6.jpg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-<a align ="right">
-<img src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")</a>
- 
-<!-- view and follower -->
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frezaaskary" /><img src="https://komarev.com/ghpvc/?username=rezaaskary" alt="rezaaskary"/>
- 
-<!--
-**rezaaskary/rezaaskary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Programming Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Here are some ideas to get you started:
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+### **Development Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Domino](https://img.shields.io/badge/Domino-FF6B35?style=for-the-badge&logo=domino&logoColor=white)
+
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+<br><strong>Biomedical Signal Processing</strong>
+<br><em>ECG, EEG, EMG, PPG Analysis</em>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+<br><strong>Deep Learning</strong>
+<br><em>Neural Networks, CNN, RNN, LSTM</em>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
+<br><strong>Wearable Technology</strong>
+<br><em>Real-time Biosignal Analysis</em>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+<br><strong>Control Systems</strong>
+<br><em>System Identification, Control Design</em>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqnsXXiw/giphy.gif" width="100"/>
+<br><strong>Time-Series Analysis</strong>
+<br><em>Human Digital Twin, Forecasting</em>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100"/>
+<br><strong>Machine Learning</strong>
+<br><em>Predictive Modeling, Data Mining</em>
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaaskary&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaskary&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaskary&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rezaaskary&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+## 🔥 Current Focus
+
+- 🧠 **Human Digital Twin Development** - Creating personalized physiological models
+- 🏥 **Healthcare AI Applications** - Developing ML solutions for medical diagnosis
+- 📱 **Wearable Device Integration** - Real-time biosignal processing algorithms
+- 🔬 **Research & Publication** - Contributing to biomedical engineering literature
+
+## 🌟 Let's Connect & Collaborate!
+
+I'm always excited to discuss innovative projects in biomedical engineering, AI/ML applications in healthcare, and wearable technology. Whether you're interested in collaboration, research opportunities, or just want to chat about the latest in biosignal processing, I'd love to hear from you!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.
