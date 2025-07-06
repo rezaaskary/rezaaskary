@@ -106,7 +106,7 @@ I'm passionate about bridging the gap between human physiology and artificial in
 <img src="https://github-profile-trophy.vercel.app/?username=rezaaskary&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 🔥 Current Focus
+## 🔥 Current Focus & Practice
 
 - 🧠 **Human Digital Twin Development** - Creating personalized physiological models
 - 🏥 **Healthcare AI Applications** - Developing ML solutions for medical diagnosis
