@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe
 
 ## I'm Mohammad Reza Askari
-### 🇮🇷 Persian Developer | 🧬 Biomedical Data Scientist | 🤖 AI/ML Engineer
+### 🇮🇷 Persian Developer | 🧬 Biomedical Signal Processing Specialist | 🤖 AI/ML Engineer
 
 ---
 
@@ -106,13 +106,13 @@ I'm passionate about bridging the gap between human physiology and artificial in
 <img src="https://github-profile-trophy.vercel.app/?username=rezaaskary&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 🔥 Current Focus & Practice
+## 🔥 Current Focus
 
-- 🧠 **Human Digital Twin Development** - Creating personalized physiological models
-- 🏥 **Healthcare AI Applications** - Developing ML solutions for medical diagnosis
-- 📱 **Wearable Device Integration** - Real-time biosignal processing algorithms
-- 🔬 **Research & Publication** - Contributing to biomedical engineering literature
-- 🤖 **RAG Systems** - Building intelligent knowledge retrieval systems with LLMs
+- 💊 **Computational Drug Discovery** - Leveraging AI/ML for drug design and molecular property prediction
+- 🧬 **Protein Structure Analysis** - Using deep learning for protein folding and drug-target interaction prediction
+- 🔬 **Molecular Generation** - Developing generative models for novel drug compound synthesis
+- 📊 **Pharmacokinetic Modeling** - Predicting ADMET properties using machine learning approaches
+- 🤖 **RAG Systems for Drug Discovery** - Building intelligent knowledge retrieval for pharmaceutical research
 - 🕸️ **Graph RAG Implementation** - Advanced semantic search using knowledge graphs
 - 🖼️ **Image-to-Image Translation Projects** - Medical imaging enhancement and style transfer
 
