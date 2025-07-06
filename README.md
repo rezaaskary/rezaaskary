@@ -17,6 +17,8 @@ I'm passionate about bridging the gap between human physiology and artificial in
 📊 **Data Science** - Transforming complex datasets into actionable insights  
 🎛️ **Systems & Control Engineering** - Designing robust control systems and digital twins  
 📈 **Time-Series Analysis** - Specialized in temporal pattern recognition and forecasting  
+🧠 **RAG & Graph RAG** - Retrieval-Augmented Generation with knowledge graphs and semantic search  
+🖼️ **Image-to-Image Translation** - Advanced computer vision for medical imaging and visual transformations  
 
 ## 🛠️ Technical Arsenal
 
@@ -33,6 +35,9 @@ I'm passionate about bridging the gap between human physiology and artificial in
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PyMC-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-00C851?style=for-the-badge&logo=neo4j&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### **Development Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,10 +112,13 @@ I'm passionate about bridging the gap between human physiology and artificial in
 - 🏥 **Healthcare AI Applications** - Developing ML solutions for medical diagnosis
 - 📱 **Wearable Device Integration** - Real-time biosignal processing algorithms
 - 🔬 **Research & Publication** - Contributing to biomedical engineering literature
+- 🤖 **RAG Systems** - Building intelligent knowledge retrieval systems with LLMs
+- 🕸️ **Graph RAG Implementation** - Advanced semantic search using knowledge graphs
+- 🖼️ **Image-to-Image Translation Projects** - Medical imaging enhancement and style transfer
 
 ## 🌟 Let's Connect & Collaborate!
 
-I'm always excited to discuss innovative projects in biomedical engineering, AI/ML applications in healthcare, and wearable technology. Whether you're interested in collaboration, research opportunities, or just want to chat about the latest in biosignal processing, I'd love to hear from you!
+I'm always excited to discuss innovative projects in biomedical engineering, AI/ML applications in healthcare, wearable technology, RAG systems, and computer vision. Whether you're interested in collaboration on image-to-image translation projects, implementing advanced RAG architectures, research opportunities, or just want to chat about the latest in biosignal processing, I'd love to hear from you!
 
 <div align="center">
 
