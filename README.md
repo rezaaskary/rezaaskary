@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe
 
 ## I'm Mohammad Reza Askari
-### 🇮🇷 Persian Developer | 🧬 Biomedical Signal Processing Specialist | 🤖 AI/ML Engineer
+### 🇮🇷 Persian Developer | 🧬 Biomedical Data Scientist | 🤖 AI/ML Engineer
 
 ---
 
