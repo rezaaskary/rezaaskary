@@ -78,19 +78,19 @@
 
 <p align="left">
   <a href="https://twitter.com/Mohamma48525561" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" style="height:2px; vertical-align:middle; margin-right: 12px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" style="height:10px; vertical-align:middle; margin-right: 12px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100061144194537" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" style="height:2px; vertical-align:middle; margin-right: 12px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" style="height:10px; vertical-align:middle; margin-right: 12px;" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-reza-askari-b61262a4/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/44175575/189038849-582b4a0e-23ef-411b-9839-ba1f6b864766.png" alt="LinkedIn" style="height:2px; vertical-align:middle; margin-right: 12px;" />
+    <img src="https://user-images.githubusercontent.com/44175575/189038849-582b4a0e-23ef-411b-9839-ba1f6b864766.png" alt="LinkedIn" style="height:10px; vertical-align:middle; margin-right: 12px;" />
   </a>
   <a href="https://www.researchgate.net/profile/Mohammad-Reza-Askari" target="_blank">
-    <img src="https://user-images.githubusercontent.com/44175575/189039752-dfe60c71-8e3d-4585-aee6-4a63b327848f.png" alt="ResearchGate" style="height:2px; vertical-align:middle; margin-right: 12px;" />
+    <img src="https://user-images.githubusercontent.com/44175575/189039752-dfe60c71-8e3d-4585-aee6-4a63b327848f.png" alt="ResearchGate" style="height:10px; vertical-align:middle; margin-right: 12px;" />
   </a>
   <a href="https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en" target="_blank">
-    <img src="https://user-images.githubusercontent.com/44175575/189040317-726a38f1-8af0-46ef-9b9e-07dc8fe41bb6.jpg" alt="Google Scholar" style="height:2px; vertical-align:middle; margin-right: 12px;" />
+    <img src="https://user-images.githubusercontent.com/44175575/189040317-726a38f1-8af0-46ef-9b9e-07dc8fe41bb6.jpg" alt="Google Scholar" style="height:10px; vertical-align:middle; margin-right: 12px;" />
   </a>
 </p>
 
