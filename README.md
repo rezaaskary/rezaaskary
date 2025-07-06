@@ -35,12 +35,12 @@ I'm a **Persian developer**
 
 <!-- end of my tools-->
 
- <h3>🌱 Looking forward to learning: <h3>
+ % <h3>🌱 Looking forward to learning: <h3>
 
 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
+% <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/44175575/188790059-0871cac9-1bc0-4600-9157-2e59c30ce24b.png"></a></code>
+% <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189029688-e9f71f58-ef38-4cac-932b-aa06a351852b.png"></a></code>
+% <code><a href="https://cloud.google.com/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/44175575/189025838-81dcbbab-f86e-4955-afc5-e73ba0ba8e05.png"></a></code> 
 _______
 <!--  this is 6 figures, showing my interests -->
  
