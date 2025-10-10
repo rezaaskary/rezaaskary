@@ -63,7 +63,7 @@ I'm passionate about bridging the gap between human physiology and artificial in
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/44175575/188337418-7575d9de-7aed-4a42-a7d1-2c2dd8c45a8c.png" width="300"/>
 <br><strong>Deep Learning</strong>
-<br><em>Neural Networks, CNN, RNN, LSTM, Attention-based</em>
+<br><em>Neural Networks, CNN, RNN, LSTM, Transformers</em>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/44175575/188338016-50be69e6-c95b-4f86-a5c9-da025320da6d.png" width="300"/>
