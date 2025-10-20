@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe
 
 ## I'm Mohammad Reza Askari
-### 🇮🇷 Persian Developer | 🧬 Biomedical Data Scientist | 🤖 AI/ML Engineer
+### 🇮🇷 Persian Developer | Data Scientist | 🤖 AI/ML Engineer
 
 ---
 
@@ -9,16 +9,16 @@
 
 I'm passionate about bridging the gap between human physiology and artificial intelligence, specializing in biomedical signal processing, wearable technology, and machine learning applications in healthcare.
 
-## 🚀 What I Do
+## What I Do
 
-🔬 **Biomedical Signal Processing** - Extracting meaningful patterns from physiological data  
-🤖 **Deep Learning & AI** - Building intelligent systems for healthcare applications  
-⌚ **Wearable Technology** - Developing algorithms for biosignal analysis from wristband devices  
-📊 **Data Science** - Transforming complex datasets into actionable insights  
-🎛️ **Systems & Control Engineering** - Designing robust control systems and digital twins  
-📈 **Time-Series Analysis** - Specialized in temporal pattern recognition and forecasting  
-🧠 **RAG & Graph RAG** - Retrieval-Augmented Generation with knowledge graphs and semantic search  
-🖼️ **Image-to-Image Translation** - Advanced computer vision for medical imaging and visual transformations  
+ **Biomedical Signal Processing** - Extracting meaningful patterns from physiological data  
+ **Deep Learning & AI** - Building intelligent systems for healthcare applications  
+ **Wearable Technology** - Developing algorithms for biosignal analysis from wristband devices  
+ **Data Science** - Transforming complex datasets into actionable insights  
+ **Systems & Control Engineering** - Designing robust control systems and digital twins  
+ **Time-Series Analysis** - Specialized in temporal pattern recognition and forecasting  
+ **RAG & Graph RAG** - Retrieval-Augmented Generation with knowledge graphs and semantic search  
+ **Image-to-Image Translation** - Advanced computer vision for medical imaging and visual transformations  
 
 ## 🛠️ Technical Arsenal
 
