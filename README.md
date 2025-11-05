@@ -108,11 +108,7 @@ I'm passionate about bridging the gap between human physiology and artificial in
 
 ## 🔥 Current Focus
 
-- 💊 **Computational Drug Discovery** - Leveraging AI/ML for drug design and molecular property prediction
-- 🧬 **Protein Structure Analysis** - Using deep learning for protein folding and drug-target interaction prediction
-- 🔬 **Molecular Generation** - Developing generative models for novel drug compound synthesis
-- 📊 **Pharmacokinetic Modeling** - Predicting ADMET properties using machine learning approaches
-- 🤖 **RAG Systems for Drug Discovery** - Building intelligent knowledge retrieval for pharmaceutical research
+- 🤖 **RAG Systems** - Building intelligent knowledge retrieval for pharmaceutical research
 - 🕸️ **Graph RAG Implementation** - Advanced semantic search using knowledge graphs
 - 🖼️ **Image-to-Image Translation Projects** - Medical imaging enhancement and style transfer
 
