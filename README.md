@@ -1,6 +1,5 @@
-# 👋 Welcome to My Digital Universe
 
-## I'm Mohammad Reza Askari
+## I'm Reza Askari
 ### 🇮🇷 Persian Developer | Data Scientist | 🤖 AI/ML Engineer
 
 ---
